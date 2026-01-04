@@ -42,6 +42,7 @@ The game also includes:
 ## 📦 Installation & Running Locally
 
 1. Clone the repository:
+2. ```
 ```git clone https://github.com/aamosh65/dice-game.git```
 
 
