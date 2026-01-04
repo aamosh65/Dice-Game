@@ -42,9 +42,7 @@ The game also includes:
 ## 📦 Installation & Running Locally
 
 1. Clone the repository:
- ``` git clone https://github.com/aamosh65/dice-game.git
-
-
+ ``` git clone https://github.com/aamosh65/dice-game.git`
 2.Navigate into the project folder:
   `cd Dice-Game`
 
