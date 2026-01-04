@@ -42,8 +42,7 @@ The game also includes:
 ## 📦 Installation & Running Locally
 
 1. Clone the repository:
-
-```bash
+bash
 git clone https://github.com/yourusername/dice-game.git
 
 
