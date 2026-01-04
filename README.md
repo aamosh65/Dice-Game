@@ -42,18 +42,17 @@ The game also includes:
 ## 📦 Installation & Running Locally
 
 1. Clone the repository:
-bash
-git clone https://github.com/yourusername/dice-game.git
+`git clone https://github.com/yourusername/dice-game.git`
 
 
 2.Navigate into the project folder:
-  cd Dice-Game
+  `cd Dice-Game`
 
 3.Install Dependencies
-  npm install
+  `npm install`
 
 4.Start the development server
-  npm run dev
+  `npm run dev`
 
 5.Open in browser
   Vite usually opes at  http://localhost:5173/ (check your terminal)
