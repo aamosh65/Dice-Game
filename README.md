@@ -42,7 +42,7 @@ The game also includes:
 ## 📦 Installation & Running Locally
 
 1. Clone the repository:
-```git clone https://github.com/yourusername/dice-game.git```
+```git clone https://github.com/aamosh65/dice-game.git```
 
 
 2.Navigate into the project folder:
@@ -56,4 +56,3 @@ The game also includes:
 
 5.Open in browser
   Vite usually opes at  http://localhost:5173/ (check your terminal)
-```
